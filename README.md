@@ -82,7 +82,7 @@ This project demonstrates:
 
 **👨‍💻 Author:** [Ranveer Raj]  
 **📧 Email:** [ranveerraj832@gmail.com]  
-**🔗 LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/ranveer-raj)  
+**🔗 LinkedIn:** [https://linkedin.com/in/yourprofile](www.linkedin.com/in/ranveer-raj-760137360)  
 
 
 ---
