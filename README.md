@@ -82,8 +82,8 @@ This project demonstrates:
 
 **👨‍💻 Author:** [Ranveer Raj]  
 **📧 Email:** [ranveerraj832@gmail.com]  
-**🔗 LinkedIn:** [https://linkedin.com/in/yourprofile]()  
-**💻 GitHub:** [https://github.com/yourusername]()
+**🔗 LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/ranveer-raj)  
+
 
 ---
 
