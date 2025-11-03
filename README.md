@@ -36,22 +36,7 @@ It aims to optimize ride operations, understand customer and driver behavior, an
 
 ---
 
-## ▶️ How to Run
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/Ola_RIDES_Analysis.git
-cd Ola_RIDES_Analysis
 
-# 2. Install dependencies
-pip install pandas numpy mysql-connector-python matplotlib seaborn
-
-# 3. Run the analysis
-jupyter notebook
-
-# 4. Open dashboard
-# File: Ola_RIDES_Dashboard.pbix (Power BI)
-
-```
 
 ---
 
